@@ -1,0 +1,4 @@
+F:\Projects\ArendaCS\src\ArendaApp\ArendaRESTLib\bin\Debug\ArendaRESTLib.dll
+F:\Projects\ArendaCS\src\ArendaApp\ArendaRESTLib\bin\Debug\ArendaRESTLib.pdb
+F:\Projects\ArendaCS\src\ArendaApp\ArendaRESTLib\obj\Debug\ArendaRESTLib.dll
+F:\Projects\ArendaCS\src\ArendaApp\ArendaRESTLib\obj\Debug\ArendaRESTLib.pdb

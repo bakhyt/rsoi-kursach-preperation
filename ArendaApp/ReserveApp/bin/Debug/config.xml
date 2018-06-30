@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<config>
+  <service>
+    <url>http://127.0.0.1:3126/ReserveService</url>
+  </service>
+</config>
+

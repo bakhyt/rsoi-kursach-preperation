@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<config>
+  <service>
+    <url>http://127.0.0.1:3124/ArendaService</url>
+  </service>
+</config>
+
